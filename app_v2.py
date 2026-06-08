@@ -1,4 +1,24 @@
 import streamlit as st
+
+
+PASSWORD = "PrescioDemo2026"
+
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
+
+if not st.session_state.authenticated:
+
+    password = st.text_input(
+        "Enter Password",
+        type="password"
+    )
+
+    if password == PASSWORD:
+        st.session_state.authenticated = True
+        st.rerun()
+
+    st.stop()
+    
 import pandas as pd
 import subprocess
 import os
