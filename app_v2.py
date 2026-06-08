@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-PASSWORD = "PrescioDemo2026"
+PASSWORD = st.secrets["APP_PASSWORD"]
 
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
