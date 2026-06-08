@@ -554,7 +554,7 @@ st.sidebar.markdown(
 )
 
 st.sidebar.image(
-    "Assets/prescio_logo.png",
+    "Assets/prescio_logo.PNG",
     width=250
 )
 
