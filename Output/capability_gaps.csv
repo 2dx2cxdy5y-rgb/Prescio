@@ -1,0 +1,5 @@
+queue,skill_group,seniority,required_fte,available_fte,capability_gap
+Billing,Operations,Advisor,0.0,0,0.0
+Billing,Operations,Manager,0.0,0,0.0
+Sales,Operations,Advisor,0.0,0,0.0
+Retention,Escalations,SME,0.0,0,0.0

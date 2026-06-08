@@ -1,0 +1,25 @@
+date,queue,impact_type,driver,effect
+14/12/2026,billing,Workforce,Hiring,+3.0 hires
+14/12/2026,billing,Workforce,Attrition,-3.0 attrition
+21/12/2026,billing,Workforce,Hiring,+5.0 hires
+21/12/2026,billing,Workforce,Attrition,-4.0 attrition
+28/12/2026,billing,Workforce,Hiring,+4.0 hires
+28/12/2026,billing,Workforce,Attrition,-3.0 attrition
+14/12/2026,complaints,Workforce,Hiring,+3.0 hires
+14/12/2026,complaints,Workforce,Attrition,-2.0 attrition
+21/12/2026,complaints,Workforce,Hiring,+2.0 hires
+21/12/2026,complaints,Workforce,Attrition,-2.0 attrition
+28/12/2026,complaints,Workforce,Hiring,+2.0 hires
+28/12/2026,complaints,Workforce,Attrition,-2.0 attrition
+14/12/2026,retentions,Workforce,Hiring,+3.0 hires
+14/12/2026,retentions,Workforce,Attrition,-3.0 attrition
+21/12/2026,retentions,Workforce,Hiring,+1.0 hires
+21/12/2026,retentions,Workforce,Attrition,-1.0 attrition
+28/12/2026,retentions,Workforce,Hiring,+4.0 hires
+28/12/2026,retentions,Workforce,Attrition,-3.0 attrition
+14/12/2026,sales,Workforce,Hiring,+3.0 hires
+14/12/2026,sales,Workforce,Attrition,-3.0 attrition
+21/12/2026,sales,Workforce,Hiring,+2.0 hires
+21/12/2026,sales,Workforce,Attrition,-2.0 attrition
+28/12/2026,sales,Workforce,Hiring,+3.0 hires
+28/12/2026,sales,Workforce,Attrition,-3.0 attrition

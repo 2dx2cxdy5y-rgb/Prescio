@@ -1,0 +1,2 @@
+scenario_name,scenario_description,assumptions
+Baseline test 2,another baseline test,"{'aht_seconds': 600, 'occupancy': 0.85, 'shrinkage': 0.27, 'target_service_level': None, 'target_answer_seconds': None}"

@@ -1,0 +1,8 @@
+step,status,duration_seconds,timestamp,error
+historical_normalisation,SUCCESS,0.0049,2026-06-08 10:26:45.561498,
+overlay,SUCCESS,0.0024,2026-06-08 10:26:45.563864,
+transformation,SUCCESS,0.0042,2026-06-08 10:26:45.568021,
+staffing,SUCCESS,0.0032,2026-06-08 10:26:45.571253,
+workforce,SUCCESS,0.5329,2026-06-08 10:26:46.104117,
+repeat_demand,SUCCESS,0.0161,2026-06-08 10:26:46.120229,
+risk,SUCCESS,0.0002,2026-06-08 10:26:46.120421,

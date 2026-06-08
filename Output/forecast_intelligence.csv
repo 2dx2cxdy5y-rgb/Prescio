@@ -1,0 +1,5 @@
+queue,demand_change_pct,volatility,confidence_width,commentary
+billing,4.5,883.0,2339.0,"Demand is forecast to increase moderately over the planning horizon. Forecast volatility is moderate, with periodic demand fluctuations expected. Forecast confidence ranges indicate moderate uncertainty. Moderate seasonal demand variation is expected."
+complaints,-2.4,187.0,697.0,Demand is forecast to remain broadly stable. Forecast volatility remains relatively contained. Forecast confidence ranges remain relatively narrow. Limited seasonal variation is currently forecast.
+retentions,1.6,265.0,755.0,Demand is forecast to remain broadly stable. Forecast volatility remains relatively contained. Forecast confidence ranges remain relatively narrow. Limited seasonal variation is currently forecast.
+sales,14.7,814.0,2184.0,"Demand is forecast to increase materially over the planning horizon. Forecast volatility is moderate, with periodic demand fluctuations expected. Forecast confidence ranges indicate moderate uncertainty. Moderate seasonal demand variation is expected."

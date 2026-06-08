@@ -12,8 +12,8 @@ __pycache__/
 .vscode/
 
 # Generated Outputs
-Output/
-Snapshots/
+# Output/
+# Snapshots/
 
 # Optional
 *.log
