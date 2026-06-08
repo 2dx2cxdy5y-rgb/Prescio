@@ -1,23 +1,23 @@
 import streamlit as st
 
 
-# PASSWORD = st.secrets["APP_PASSWORD"]
+PASSWORD = st.secrets["APP_PASSWORD"]
 
-# if "authenticated" not in st.session_state:
-#     st.session_state.authenticated = False
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
 
-# if not st.session_state.authenticated:
+if not st.session_state.authenticated:
 
-#     password = st.text_input(
-#         "Enter Password",
-#         type="password"
-#     )
+    password = st.text_input(
+        "Enter Password",
+        type="password"
+    )
 
-#     if password == PASSWORD:
-#         st.session_state.authenticated = True
-#         st.rerun()
+    if password == PASSWORD:
+        st.session_state.authenticated = True
+        st.rerun()
 
-#     st.stop()
+    st.stop()
     
 import pandas as pd
 import subprocess
