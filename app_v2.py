@@ -789,6 +789,8 @@ selected_scenario = st.sidebar.selectbox(
     "Load Scenario",
 
     ["None"] + available_scenarios
+    
+    label_visibility="collapsed"
 )
 
 loaded_scenario = {}
