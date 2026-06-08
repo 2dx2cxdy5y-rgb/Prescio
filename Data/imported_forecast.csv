@@ -1,0 +1,17 @@
+date,queue,demand
+01/06/2026,Billing,10000
+01/06/2026,Complaints,2500
+01/06/2026,Retentions,4000
+01/06/2026,Sales,12000
+08/06/2026,Billing,10500
+08/06/2026,Complaints,2600
+08/06/2026,Retentions,4200
+08/06/2026,Sales,12500
+15/06/2026,Billing,11000
+15/06/2026,Complaints,2700
+15/06/2026,Retentions,4300
+15/06/2026,Sales,13000
+22/06/2026,Billing,11500
+22/06/2026,Complaints,2800
+22/06/2026,Retentions,4500
+22/06/2026,Sales,13500

@@ -1,0 +1,2 @@
+forecast_source,overlays_enabled,forecast_offset_weeks,forecast_horizon_weeks,forecast_green_threshold,forecast_amber_threshold
+Generated,True,6,52,95,85

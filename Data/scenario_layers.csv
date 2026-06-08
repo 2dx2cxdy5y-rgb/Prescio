@@ -1,0 +1,5 @@
+queue,start_date,end_date,impact_pct
+billing,01/06/2026,31/08/2026,-5
+sales,01/07/2026,30/09/2026,8
+retentions,01/08/2026,31/10/2026,-3
+complaints,01/09/2026,31/12/2026,12

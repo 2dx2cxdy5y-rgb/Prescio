@@ -1,0 +1,3 @@
+metric,value
+target_occupancy,0.85
+standard_shrinkage,0.27

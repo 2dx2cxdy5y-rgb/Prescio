@@ -1,0 +1,9 @@
+queue,forecast_source
+Billing,Imported
+Complaints,Imported
+Retentions,Imported
+Sales,Imported
+Collections,Generated
+Tech Support,Generated
+Webchat,Generated
+Test,Generated

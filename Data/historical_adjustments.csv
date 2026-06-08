@@ -1,0 +1,3 @@
+start_date,end_date,queue,metric,adjustment_action,adjustment_value,reason,enabled
+01/12/2025,07/12/2025,billing,historical_demand,exclude,,Telephony outage,True
+15/12/2025,21/12/2025,sales,historical_demand,smooth,,Christmas spike,True

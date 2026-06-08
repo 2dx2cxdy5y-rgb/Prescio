@@ -1,0 +1,9 @@
+queue,default_aht,default_occupancy,default_shrinkage,default_contracted_hours,default_opening_fte,budget_fte,work_type,concurrency,weekly_open_hours,target_service_level,target_answer_seconds,default_attrition
+billing,350,85,27,37.5,100,110,call,1,84,80,20,18
+sales,400,88,24,37.5,80,75,call,1,84,80,20,24
+retentions,550,82,30,37.5,65,70,call,1,84,75,30,20
+complaints,760,78,34,37.5,58,60,call,1,84,90,10,25
+tech support,640,80,29,37.5,72,70,call,1,112,80,30,19
+webchat,320,92,20,37.5,52,55,chat,3,112,80,30,15
+collections,680,84,27,37.5,62,60,call,1,84,75,60,20
+test,300,85,25,37.5,20,30,call,1,84,85,30,20

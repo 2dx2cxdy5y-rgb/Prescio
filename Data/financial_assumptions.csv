@@ -1,0 +1,6 @@
+metric,value
+salary_per_fte,42000.0
+recruitment_cost_per_hire,5500.0
+contractor_cost_per_fte,65000.0
+overtime_cost_per_fte,12000.0
+attrition_rate,0.18

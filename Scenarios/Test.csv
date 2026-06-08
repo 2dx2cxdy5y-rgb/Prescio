@@ -1,0 +1,5 @@
+week,demand,resolved_demand,ai_deflection,aht_reduction,productivity_gain,investment_cost,effective_aht,effective_productive_hours,workload_hours,net_requirement,gross_requirement,available_supply,fte_gap,salary_cost,recruitment_cost,contractor_cost,overtime_cost,total_cost
+2026-W01,1000,1135.0,0,0,0,50000,600.0,30.0,189.17,7.42,10.16,72.0,61.84,355600.0,50000.0,0.0,0.0,455600.0
+2026-W02,1100,1167.075,5,5,5,25000,570.0,31.5,184.79,6.9,9.45,74.5,65.05,330750.0,0.0,0.0,0.0,355750.0
+2026-W03,1200,1189.8,10,10,10,10000,540.0,33.0,178.47,6.36,8.72,85.0,76.28,305200.0,25000.0,0.0,0.0,340200.0
+2026-W04,1300,1203.1750000000002,15,15,15,5000,510.0,34.5,170.45,5.81,7.96,88.75,80.79,278600.0,0.0,0.0,0.0,283600.0

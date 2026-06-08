@@ -1,0 +1,7 @@
+layer_name,priority,layer_type,compounding_mode,active
+base_forecast,1,base,multiplicative,True
+customer_growth,2,growth,multiplicative,True
+seasonality,3,seasonality,multiplicative,True
+transformation,4,transformation,multiplicative,True
+scenario,5,scenario,multiplicative,True
+operational_overlay,6,overlay,multiplicative,True
