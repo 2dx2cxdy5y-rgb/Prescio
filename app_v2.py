@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Prescio",
+    page_icon="Assets/prescio_favicon.PNG",
+    layout="wide"
+)
 
 PASSWORD = st.secrets["APP_PASSWORD"]
 
@@ -431,11 +436,7 @@ def dataset_quality_check(
 # PAGE CONFIG
 # -----------------------------------
 
-st.set_page_config(
-    page_title="Prescio",
-    page_icon="🅿️",
-    layout="wide"
-)
+
 
 st.markdown("""
 <style>
