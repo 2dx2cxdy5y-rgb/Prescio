@@ -433,7 +433,7 @@ def dataset_quality_check(
 
 st.set_page_config(
     page_title="Prescio",
-    page_icon="Assets/prescio_favicon.png",
+    page_icon="Assets/prescio_favicon.PNG",
     layout="wide"
 )
 
