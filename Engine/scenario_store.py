@@ -15,7 +15,7 @@ def save_scenario(
 ):
 
     output_path = (
-        f"output/scenarios/"
+        f"Output/Scenarios/"
         f"{scenario_name}.csv"
     )
 
@@ -37,7 +37,7 @@ def load_scenario(
 ):
 
     input_path = (
-        f"output/scenarios/"
+        f"Output/Scenarios/"
         f"{scenario_name}.csv"
     )
 
@@ -61,7 +61,7 @@ def load_scenario(
 def list_scenarios():
 
     scenario_folder = (
-        "output/scenarios"
+        "Output/Scenarios"
     )
 
     if not os.path.exists(
