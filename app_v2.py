@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Prescio",
-    page_icon="🚀",
+    page_icon="Assets/prescio_favicon.png",
     layout="wide"
 )
 
