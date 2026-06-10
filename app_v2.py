@@ -892,7 +892,7 @@ if platform_mode == "Planning Workbench":
 
             DATASETS["active_plan"]["path"],
 
-            f"output/scenarios/{scenario_name}_forecast.csv"
+            f"Output/Scenarios/{scenario_name}_forecast.csv"
 
         )
         

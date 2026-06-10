@@ -16,7 +16,7 @@ def record_pipeline_run(
 ):
 
     output_path = (
-        "output/run_metadata.csv"
+        "Output/run_metadata.csv"
     )
 
     run_record = {

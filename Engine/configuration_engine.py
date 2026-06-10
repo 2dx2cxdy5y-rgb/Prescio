@@ -87,7 +87,7 @@ def synchronise_queue_structures():
 
     workforce_df.to_csv(
 
-        "data/workforce_supply.csv",
+        "Data/workforce_supply.csv",
 
         index=False
     )

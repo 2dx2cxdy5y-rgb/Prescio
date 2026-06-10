@@ -302,7 +302,7 @@ def generate_forecast_intelligence():
 
     intelligence_df.to_csv(
 
-        "output/forecast_intelligence.csv",
+        "Output/forecast_intelligence.csv",
 
         index=False
     )

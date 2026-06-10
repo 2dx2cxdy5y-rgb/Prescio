@@ -122,11 +122,11 @@ def render_scenario_selection(
     # -------------------------
 
     baseline_df = pd.read_csv(
-        f"output/scenarios/{baseline_scenario}_forecast.csv"
+        f"Output/Scenarios/{baseline_scenario}_forecast.csv"
     )
 
     comparison_df = pd.read_csv(
-        f"output/scenarios/{comparison_scenario}_forecast.csv"
+        f"Output/Scenarios/{comparison_scenario}_forecast.csv"
     )
 
     # -------------------------

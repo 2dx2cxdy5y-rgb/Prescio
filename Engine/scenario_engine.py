@@ -831,14 +831,14 @@ def generate_resolved_forecast():
 
     export_forecast_df.to_csv(
 
-        "output/resolved_forecast.csv",
+        "Output/resolved_forecast.csv",
 
         index=False
     )
 
     impact_df.to_csv(
 
-        "output/layer_impacts.csv",
+        "Output/layer_impacts.csv",
 
         index=False
     )
